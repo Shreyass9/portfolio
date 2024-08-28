@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import Info from "./components/Info";
 import About from "./components/About";
 import Technologies from "./components/Technologies";
-import  EXPERIENCE  from "./components/Experience";
 import PROJECTS from "./components/Projects";
 import  CONTACT  from "./components/Contact";
 
@@ -25,7 +24,6 @@ const App = () => {
         <Info />
         <About />
         <Technologies />
-        <EXPERIENCE />
         <PROJECTS />
         <CONTACT />
       </div>
